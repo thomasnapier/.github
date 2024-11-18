@@ -6,9 +6,12 @@
 
 ## My Skills
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnapier&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="thomasnapier's Top Languages" align="right" width="295">
-
-![Thomas Napier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasnapier&hide=contribs,prs&theme=dark&show_icons=true)
+<a href="https://github.com/thomasnapier">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnapier&layout=compact&card_width=275&theme=github_dark&langs_count=8&hide=jupyter&hide_rank=true&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot&card_width=320" />
+</a>
+<a href="https://github.com/thomasnapier/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasnapier&hide=contribs,prs&theme=dark&show_icons=true&count_private=true" />
+</a>
 
 ### Languages/Frameworks I'm good at:
 
