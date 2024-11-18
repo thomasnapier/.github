@@ -7,10 +7,10 @@
 ## My Skills
 
 <a href="https://github.com/thomasnapier">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnapier&layout=compact&card_width=275&theme=github_dark&langs_count=8&hide=jupyter&hide_rank=true&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasnapier&hide=contribs,prs&theme=dark&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/thomasnapier/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasnapier&hide=contribs,prs&theme=dark&show_icons=true&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnapier&layout=compact&theme=github_dark&langs_count=8&hide=jupyter_notebook&hide_rank=true&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot&card_width=320" />
 </a>
 
 ### Languages/Frameworks I'm good at:
