@@ -1,4 +1,4 @@
-<h1>thomasnapier <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=thomasnapier&style=flat-square"></h1>
+<h1>Hi 👋, I'm Thomas Napier<img align="centre" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=thomasnapier&style=flat-square"></h1>
 
 ## About Me
 
@@ -6,9 +6,8 @@
 
 ## My Skills
 
-<img src="https://thomasnapier-readme-stats.vercel.app/api/top-langs?username=thomasnapier&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="thomasnapier's Top Languages" align="right" width="295">
-
-![thomasnapier's GitHub Stats][github-stats-img]
+![Thomas Napier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasnapier&hide=contribs,prs&theme=dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnapier&layout=compact)
 
 ### Languages/Frameworks I'm good at:
 
