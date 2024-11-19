@@ -39,7 +39,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasnapier&hide=contribs,prs&theme=dark&show_icons=true&count_private=true&card_width=270&hide_rank=true" />
 </a>
 <a href="https://github.com/thomasnapier/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnapier&layout=compact&theme=dark&langs_count=8&hide=jupyter_notebook&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot,AudioHandling&card_width=275" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasnapier&layout=compact&theme=dark&langs_count=8&hide=jupyter_notebook&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot&card_width=275" />
 </a>
 
 ### Languages/Frameworks I'm good at:
